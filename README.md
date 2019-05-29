@@ -2,8 +2,14 @@
 
 Before and after code for a _Terraform Introduction_ class.
 
-## Branches
+## Requirements
+- Foundation Courseware
 
-See the `after` branch for the completed code from the class.
+## References
+- https://wiki.meltwater.net/display/EE/Drone
 
-See the `after-byoaws` branch for the completed code that can be run on a student's own AWS account (instead of on the instructor-created AWS account).
+## Maintainer
+For any feedback or change requests, feel free to drop a line to the maintainers:
+- @meltwater/a-team
+ 
+Managed by the Foundation mission (foundationmission@meltwater.com).
